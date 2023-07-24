@@ -30,14 +30,14 @@ export const skillList = [
       "https://user-images.githubusercontent.com/31516195/170096325-d548fb46-5806-41a1-8af6-43a1bdcc7f89.png",
   },
   {
-    skillName: "TypeScript",
+    skillName: "HardHat",
     skillUrl:
-      "https://user-images.githubusercontent.com/31516195/170096347-7a6e9142-2aeb-4a1c-bcbb-da12a21d3aca.png",
+      "https://res.cloudinary.com/dbnriwv0g/image/upload/v1690136833/hardhat_cdion0.png",
   },
   {
-    skillName: "Laravel",
+    skillName: "Solidity",
     skillUrl:
-      "https://user-images.githubusercontent.com/31516195/170096313-9e52f598-1d07-4689-916c-2b9ee3453227.png",
+      "https://res.cloudinary.com/dbnriwv0g/image/upload/v1690136655/Solidity_jv8sgg.png",
   },
   {
     skillName: "MongoDB",
@@ -50,13 +50,8 @@ export const skillList = [
       "https://user-images.githubusercontent.com/31516195/170096321-7dc0e110-e99b-49c2-831b-aa72ede1a82e.png",
   },
   {
-    skillName: "Php",
+    skillName: "Ganache",
     skillUrl:
-      "https://user-images.githubusercontent.com/31516195/170097980-463780a1-6a86-4d8a-8ba4-dcc882fdf57a.png",
-  },
-  {
-    skillName: "Vue.js",
-    skillUrl:
-      "https://user-images.githubusercontent.com/31516195/170096352-411826c2-3fcc-410a-bdfb-ce5119acf397.png",
+      "https://res.cloudinary.com/dbnriwv0g/image/upload/v1690136654/ganache_werlxz.png",
   },
 ];
